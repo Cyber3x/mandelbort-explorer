@@ -6,6 +6,7 @@ Download the files and run the .exe
 
 # Controlls
 W, A, S, D - Move
+
 Q, E - Rotate
 R - Resete
 O, P - Zoom / Unzoom
