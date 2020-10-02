@@ -14,3 +14,5 @@ R - Resete
 O, P - Zoom / Unzoom
 
 K, L - Increse / decrese the number of max iterations
+
+When the Julia tick box is selected hold LEFT CTRL to pick different values with your mouse.
